@@ -1,7 +1,7 @@
 # Byte_Size
 HIXS technology club
 
-Neil Goyal - [Neildagr8](https://github.com/Neildagr8)
+Neil Goyal - @Neildagr8
 
 
 [Artificial Intelligence](https://github.com/Neildagr8/Byte_Size/tree/master/AI)
