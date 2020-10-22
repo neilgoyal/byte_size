@@ -12,3 +12,6 @@ First, go to file, then make a copy in the drive, and then complete it.
 https://drive.google.com/file/d/1es3TIoJYYTNCCFl7AE-zrYsIB92Ff4_U/view?usp=sharing
 - HW: share collab with teachers and me via email
 
+
+22 Oct:
+- https://colab.research.google.com/drive/1o0Jd3DIQhdC150vkhcRGiUY7Q1MzaRP2?usp=sharing
