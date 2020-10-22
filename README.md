@@ -9,6 +9,7 @@ Neil Goyal - [Neildagr8](https://github.com/Neildagr8)
 [Artificial Intelligence](https://github.com/Neildagr8/Byte_Size/tree/master/AI)
 - Arush Mukker	
 - Aarit Hooda	
+- Amulya Arora
 - Kabir Thukral	
 - Hiteyjit Singh Gujral	
 - Anay Gupta	
@@ -32,8 +33,7 @@ Neil Goyal - [Neildagr8](https://github.com/Neildagr8)
 - Harshman Sawhney	
 - Rakshit Kaushik	
 - Samarth Cham	
-- Randitya	
-- Amulya Arora	
+- Randitya		
 - Samarth Cham	
 - Rithwik Arora	
 - Manan Arora	
